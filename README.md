@@ -1,11 +1,12 @@
-<h1> REACT-SHOP </h1>
-react/types
-react-router-dom
-contextAPI
-styled-component
-
-git init
-git status
-git add .
-git commit -m “message”
-git push -u origin branchName
+<h1> REACT-SHOP </h1><br/>
+<br/>
+react/types<br/>
+react-router-dom<br/>
+contextAPI<br/>
+styled-component<br/>
+<br/>
+git init<br/>
+git status<br/>
+git add .<br/>
+git commit -m “message”<br/>
+git push -u origin branchName<br/>
