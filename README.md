@@ -5,7 +5,8 @@ react-router-dom<br/>
 contextAPI<br/>
 scss<br/>
 fontawsome<br/>
-npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
+npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons<br/>
+react-responsive-carousel<br/>
 <br/>
 git init<br/>
 git status<br/>
