@@ -3,7 +3,7 @@
 react/types<br/>
 react-router-dom<br/>
 contextAPI<br/>
-sass or styled-component<br/>
+scss or styled-component<br/>
 <br/>
 git init<br/>
 git status<br/>
