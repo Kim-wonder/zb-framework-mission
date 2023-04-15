@@ -1,0 +1,43 @@
+@import "../variable.scss";
+
+.carousel-container {
+  display: block;
+  overflow: hidden;
+  --width: 100%;
+  --height: 700px;
+}
+.carousel-root {
+  display: block;
+  width: 100%;
+  height: 700px;
+}
+.carousel-slider {
+  display: block;
+  width: 100%;
+  height: 700px;
+}
+.thumbs {
+  display: none;
+}
+.carousel-status {
+  display: none;
+}
+.ad_ment {
+  display: flex;
+  position: absolute;
+  width: 90%;
+  color: #fff;
+  padding: 10px;
+  font-size: 12px;
+}
+.carousel .slider.animated {
+  transition: all 0.3s ease-in-out;
+  display: block;
+  width: 100%;
+  height: 700px;
+}
+@media screen and (max-width: 68rem) {
+  .carousel-slider {
+    height: calc(var(--width) / 1.2);
+  }
+}
