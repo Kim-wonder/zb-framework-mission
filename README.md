@@ -3,7 +3,9 @@
 react/types<br/>
 react-router-dom<br/>
 contextAPI<br/>
-scss or styled-component<br/>
+scss<br/>
+fontawsome<br/>
+npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
 <br/>
 git init<br/>
 git status<br/>
